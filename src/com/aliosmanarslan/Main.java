@@ -2,9 +2,7 @@ package com.aliosmanarslan;
 
 public class Main {
 
-    public static void main(String[] args) {
-
-        /**
+        /*
          *
          * Döküman paketlerinin sıralanış şekli aşağıdaki gibidir.
          *
@@ -15,7 +13,4 @@ public class Main {
          * 05  -
          *
          */
-
-
-    }
 }
