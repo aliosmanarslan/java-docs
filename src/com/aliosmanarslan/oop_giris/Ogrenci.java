@@ -40,6 +40,17 @@ public class Ogrenci {
         }else{
             System.out.println("Öğrenci ders almıyor \n");
         }
+
+
     }
 
+    @Override
+    public String toString() {
+        return "Ogrenci{" +
+                "ogrenciNo=" + ogrenciNo +
+                ", isim='" + isim + '\'' +
+                ", sinif=" + sinif +
+                ", aktif=" + aktif +
+                '}';
+    }
 }
